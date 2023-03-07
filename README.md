@@ -1,0 +1,1 @@
+Skapa ett enkelt API för att samla e-postadresser från ett formulär. Spara sedan alla adresser som komma separerade adresser i en textfil på servern (mails.txt).
